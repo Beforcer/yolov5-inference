@@ -1,0 +1,5 @@
+
+# Classes
+nc: 2  # number of classes
+names: ['油管', '油位']  # class names
+
